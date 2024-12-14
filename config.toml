@@ -1,0 +1,12 @@
+theme = "catppuccin_macchiato"
+
+[editor]
+middle-click-paste = false
+line-number = "relative"
+
+[editor.lsp]
+display-messages = true
+display-inlay-hints = false
+
+[editor.soft-wrap]
+enable = true

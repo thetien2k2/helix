@@ -1,0 +1,8 @@
+[[language]]
+name = "go"
+indent = { tab-width = 2, unit = "  " }
+
+[[language]]
+name = "gotmpl"
+indent = { tab-width = 2, unit = "  " }
+
